@@ -33,6 +33,7 @@ calendar.csv - calendar data for the listings: availability dates, price for eac
 Our findings were that the prices are affected by the season, location and space. Meaning that ceratin neibhourhoods have almost double the prices of others. Prices in the summer are up to 50% higher and the more beds and bedrooms a flat has the higher the price as per the below graphs
 
 
+
 <h2><b>Versioning</b></h2>
 
 
